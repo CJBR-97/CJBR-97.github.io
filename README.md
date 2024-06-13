@@ -1,6 +1,3 @@
-# C. Reimer
-A personal portfolio website
-
 **Here are links to some of my recent projects with Python and Linux**
 * [MatSimPy - A Python package for materials simulation](https://github.com/CLEANit/MatSimPy)
 * [JobScraPy - A Python package to aid in parsing job opportunities](https://github.com/CJBR-97/JobScraPy)
