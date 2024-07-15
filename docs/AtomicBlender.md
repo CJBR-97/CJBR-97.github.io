@@ -9,6 +9,7 @@ Let's begin by making sure you have Blender installed and have activated the [at
 > If you haven't installed Blender before, make sure to get the program from the official site.
 
 Open Blender with the add-on enabled and you will see a grey landscape with a single cube in the middle of it. For newcomers, I recommend taking a minute to familiarize yourselves with the interface controls via mouse and keyboard. When you are comfortable with the Blender UI, you can click on the cube and press **'H'** to hide it, or use the **'Delete'** key to remove it entirely. 
+
 Next, at the top left, open the menu **'File' --> 'Import' --> 'XYZ (.xyz)'** and find the desired atomic file on your computer. 
 With the XYZ file open, your atoms should be visible and you can access the overlay controls at the upper right of the layout screen to turn off visual aids that you don't require for a clean figure (grids, axes, etc).
 
