@@ -1,5 +1,6 @@
 # Atomic Figures in Blender (Tutorial)[^1]
-## Christoff Reimer
+**by Christoff Reimer**
+
 Creating figures and diagrams for your work can be quite a rewarding activity, and it helps to know some tricks for making visualizations vibrant (yet simple).
 
 A short time ago, I had the opportunity to assist one of my colleagues [Conrard Tetsassi, PhD](https://www.linkedin.com/in/conrardtetsassi/) with representing an atomic system using Blender, the free 3D everything-software. The process was recorded so I could send it remotely, and with permission I am able to share it right here in this post.
