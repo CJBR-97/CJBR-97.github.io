@@ -14,6 +14,8 @@ Open Blender with the add-on enabled and you will see a grey landscape with a si
 Next, at the top left, open the menu **'File' --> 'Import' --> 'XYZ (.xyz)'** and find the desired atomic file on your computer. 
 With the XYZ file open, your atoms should be visible and you can access the overlay controls at the upper right of the layout screen to turn off visual aids that you don't require for a clean figure (grids, axes, etc).
 
+{% include image.html url="/assets/images/1st_Image.png" description="The Blender home screen with the overlay menu opened at the top right." %}
+
 **TODO: Port over the rest of the tutorial from my LinkedIn**
 
 [^1]: Originally posted on my LinkedIn on December 4th, 2023
