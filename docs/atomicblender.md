@@ -16,7 +16,7 @@ With the XYZ file open, your atoms should be visible and you can access the over
 
 <figure>
   <img src="{{site.url}}/assets/images/1st.png" alt="The Blender home screen with the overlay menu opened at the top right."/>
-  <figcaption>The Blender home screen with the overlay menu opened at the top right.</figcaption>
+  <figcaption style="text-align: center; font-style: italic;">The Blender home screen with the overlay menu opened at the top right.</figcaption>
 </figure>
 
 **TODO: Port over the rest of the tutorial from my LinkedIn**
