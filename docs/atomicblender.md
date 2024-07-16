@@ -4,10 +4,7 @@
 Creating figures and diagrams for your work can be quite a rewarding activity, and it helps to know some tricks for making visualizations vibrant (yet simple).
 
 A short time ago, I had the opportunity to assist one of my colleagues [Conrard Tetsassi, PhD](https://www.linkedin.com/in/conrardtetsassi/) with representing an atomic system using Blender, the free 3D everything-software. The process was recorded so I could send it remotely, and with permission I am able to share it right here in this post.
-Let's begin by making sure you have Blender installed and have activated the [atomic Blender add-on](https://docs.blender.org/manual/en/4.0/addons/import_export/mesh_atomic.html). 
-
-[!TIP]
-If you haven't installed Blender before, make sure to get the program from the official site.
+Let's begin by making sure you have Blender installed and have activated the [atomic Blender add-on](https://docs.blender.org/manual/en/4.0/addons/import_export/mesh_atomic.html). If you haven't installed Blender before, make sure to get the program from the official site.
 
 Open Blender with the add-on enabled and you will see a grey landscape with a single cube in the middle of it. For newcomers, I recommend taking a minute to familiarize yourselves with the interface controls via mouse and keyboard. When you are comfortable with the Blender UI, you can click on the cube and press **'H'** to hide it, or use the **'Delete'** key to remove it entirely. 
 
@@ -63,7 +60,5 @@ Now that you are able to take a photo in Blender, you may want to replace the ba
 I also added a **'Plane'** mesh object placed underneath as a background (like a sheet of paper) and assigned it a new white **'Material'** in the 'Material Properties' panel for contrast.  Lastly, the material was given the **'Surface' --> 'Background'** property to get rid of any shadows that might land on it from the atoms themselves.
 
 Remember, a picture is worth a thousand words.
-
-**TODO: Port over the rest of the tutorial from my LinkedIn**
 
 [^1]: Originally posted on my LinkedIn on December 4th, 2023
