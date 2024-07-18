@@ -19,7 +19,7 @@ With the XYZ file open, your atoms should be visible and you can access the over
 
 With the scene mostly ready, let's take a minute to familiarize ourselves with the camera controls. This video covers the basics, which are explained step-by-step below. Lighting and rendering is covered in another video at the end of this tutorial.
 
-<iframe width="1551" height="725" src="https://www.youtube.com/embed/BfNCyXAn_dg?si=Ab_7fmpwM6X4pIR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="640" height="300" src="https://www.youtube.com/embed/BfNCyXAn_dg?si=Ab_7fmpwM6X4pIR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 1. The camera can be selected by clicking on the wire-frame aperture hovering near your atoms or from the menu on the right-hand side of the screen.  The camera can be adjusted using the move (**'G'**) and rotate (**'R'**) options, with **'X'**, **'Y'**, and **'Z'** keys locking transformations to a particular axis.
 
@@ -55,7 +55,7 @@ With the scene mostly ready, let's take a minute to familiarize ourselves with t
 
 Now that you are able to take a photo in Blender, you may want to replace the background or change the lighting. Blender has a staggering array of lighting types and interactions. However, detailed lighting is only applied at certain rendering viewports, so switch over to those as in the video below.
 
-<iframe width="1551" height="725" src="https://www.youtube.com/embed/OyoRgz9HqsY?si=ftPAukp1Z3gJtWgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="640" height="300" src="https://www.youtube.com/embed/OyoRgz9HqsY?si=ftPAukp1Z3gJtWgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I also added a **'Plane'** mesh object placed underneath as a background (like a sheet of paper) and assigned it a new white **'Material'** in the 'Material Properties' panel for contrast.  Lastly, the material was given the **'Surface' --> 'Background'** property to get rid of any shadows that might land on it from the atoms themselves.
 
