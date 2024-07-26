@@ -1,5 +1,5 @@
 # Atomic Figures in Blender (Tutorial)[^1]
-**by Christoff Reimer**
+**by C. Reimer**
 
 Creating figures and diagrams for your work can be quite a rewarding activity, and it helps to know some tricks for making visualizations vibrant (yet simple).
 
