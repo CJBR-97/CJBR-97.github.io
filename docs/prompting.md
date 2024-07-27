@@ -14,6 +14,12 @@ Form and expression are basic building blocks of character pieces such as portra
 8. **Smirk**, **coy**, **sneer**, **cruel** --> Expression words that all involve subtleties of facial muscles without showing teeth
 9. **Snarl**, **screech**, **bellow**  --> Expression words that show a sizeable amount of teeth
 
+<figure>
+  <img src="{{site.url}}/assets/images/ai/Gnome.png" alt="A hunched gnome with a lot of character, clutching a quaint shortbow" width="1024" height="1024"/>
+  <figcaption style="text-align: center; font-style: italic; color: grey;">A hunched gnome with a lot of character, clutching a quaint shortbow
+  </figcaption>
+</figure>
+
 ## Colour
 Colours are one area of prompts that usually work fairly well without elaboration.  However, there is one particular tip that has served me well for avoiding the vaguaries of phrases such as "bright pink" or "deep blue"; classics often produce especially rich colours compared with generics.  The method is simply to use the traditional names for specific well-known colours derived from historic dyes and pigments.  
 
@@ -48,7 +54,7 @@ As well as some artstyle keywords:
 
 ## Landscapes
 <figure>
-  <img src="{{site.url}}/assets/images/ai/Jupiter Station.png" alt="An example cityscape in a planetary romance or science fantasy style" width="640" height="300"/>
+  <img src="{{site.url}}/assets/images/ai/Jupiter Station.png" alt="An example cityscape in a planetary romance or science fantasy style" width="1024" height="1024"/>
   <figcaption style="text-align: center; font-style: italic; color: grey;">An example cityscape in a planetary romance or science fantasy style
   </figcaption>
 </figure>
