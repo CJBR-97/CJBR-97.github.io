@@ -15,7 +15,7 @@ Form and expression are basic building blocks of character pieces such as portra
 9. **Snarl**, **screech**, **bellow**  --> Expression words that show a sizeable amount of teeth
 
 <figure>
-  <img src="{{site.url}}/assets/images/ai/Gnome.png" alt="A hunched gnome with a lot of character, clutching a quaint shortbow" width="1024" height="1024"/>
+  <img src="{{site.url}}/assets/images/ai/Gnome.png" alt="A hunched gnome with a lot of character, clutching a quaint shortbow"/>
   <figcaption style="text-align: center; font-style: italic; color: grey;">A hunched gnome with a lot of character, clutching a quaint shortbow
   </figcaption>
 </figure>
@@ -54,7 +54,7 @@ As well as some artstyle keywords:
 
 ## Landscapes
 <figure>
-  <img src="{{site.url}}/assets/images/ai/Jupiter Station.png" alt="An example cityscape in a planetary romance or science fantasy style" width="1024" height="1024"/>
+  <img src="{{site.url}}/assets/images/ai/Jupiter Station.png" alt="An example cityscape in a planetary romance or science fantasy style"/>
   <figcaption style="text-align: center; font-style: italic; color: grey;">An example cityscape in a planetary romance or science fantasy style
   </figcaption>
 </figure>
