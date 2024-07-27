@@ -46,6 +46,13 @@ As well as some artstyle keywords:
 8. **Fey** --> Fey is a word with multiple meanings, but in the present it often refers to elvish themes and tends to yield magical flair and insect wings
 9. **(Un)seelie** --> A good partner word to prompts for fey characters, seelie and unseelie refer to Scottish folklore surrounding good and bad fey respectively
 
+## Landscapes
+<figure>
+  <img src="{{site.url}}/assets/images/ai/Jupiter Station.png" alt="The Blender home screen with the overlay menu opened at the top right." width="640" height="300"/>
+  <figcaption style="text-align: center; font-style: italic; color: grey;">Figure 1. The Blender home screen with the overlay menu opened at the top right
+  </figcaption>
+</figure>
+
 Concerning AI art, my view is that the program makes art with the human as a director or patron commissioning the work.  Please use this remarkable tool responsibly and get some great images.
 
 Happy prompting!
