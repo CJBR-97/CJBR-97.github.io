@@ -49,7 +49,7 @@ As well as some artstyle keywords:
 ## Landscapes
 <figure>
   <img src="{{site.url}}/assets/images/ai/Jupiter Station.png" alt="The Blender home screen with the overlay menu opened at the top right." width="640" height="300"/>
-  <figcaption style="text-align: center; font-style: italic; color: grey;">Figure 1. The Blender home screen with the overlay menu opened at the top right
+  <figcaption style="text-align: center; font-style: italic; color: grey;">An example cityscape in a planetary romance or science fantasy style
   </figcaption>
 </figure>
 
