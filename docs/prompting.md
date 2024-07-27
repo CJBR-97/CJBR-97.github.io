@@ -54,7 +54,7 @@ As well as some artstyle keywords:
 
 ## Landscapes
 <figure>
-  <img src="{{site.url}}/assets/images/ai/Jupiter Station.png" alt="An example cityscape in a planetary romance or science fantasy style"/>
+  <img src="{{site.url}}/assets/images/ai/City Walled.png" alt="An example cityscape in a planetary romance or science fantasy style"/>
   <figcaption style="text-align: center; font-style: italic; color: grey;">An example cityscape in a planetary romance or science fantasy style
   </figcaption>
 </figure>
