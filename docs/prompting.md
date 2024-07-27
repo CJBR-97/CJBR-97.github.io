@@ -1,4 +1,4 @@
-# Prompt Guidelines for AI Tutorial (Copilot) [WIP]
+# Prompt Guidelines for AI Tutorial (Copilot)
 **By C. Reimer**
 
 After using Microsoft's Copilot AI for a little while and sharing the results, I was encouraged by colleagues to write up a summary of what I've observed so far and share my 'prompt engineering' toolkit.
