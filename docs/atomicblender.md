@@ -7,9 +7,9 @@ Creating figures and diagrams for your work can be quite a rewarding activity, a
 A short time ago, I had the opportunity to assist one of my colleagues, [Conrard Tetsassi, PhD](https://www.linkedin.com/in/conrardtetsassi/), with representing an atomic system using Blender, the free 3D everything-software. The process was recorded so I could send it remotely, and with permission I am able to share it right here in this post.
 Let's begin by making sure you have Blender installed and have activated the [atomic Blender add-on](https://docs.blender.org/manual/en/4.0/addons/import_export/mesh_atomic.html). If you haven't installed Blender before, make sure to get the program from the official site.
 
-Open Blender with the add-on enabled and you will see a grey landscape with a single cube in the middle of it. For newcomers, I recommend taking a minute to familiarize yourselves with the interface controls via mouse and keyboard. When you are comfortable with the Blender UI, you can click on the cube and press **'H'** to hide it, or use the **'Delete'** key to remove it entirely. 
+Open Blender with the add-on enabled and you will see a grey landscape with a single cube in the middle of it. For newcomers, I recommend taking a minute to familiarize yourselves with the interface controls via mouse and keyboard. When you are comfortable with the Blender UI, you can click on the cube and press <b>'H'</b> to hide it, or use the <b>'Delete'</b> key to remove it entirely. 
 
-Next, at the top left, open the menu **'File' --> 'Import' --> 'XYZ (.xyz)'** and find the desired atomic file on your computer. 
+Next, at the top left, open the menu <b>'File' --> 'Import' --> 'XYZ (.xyz)'</b> and find the desired atomic file on your computer. 
 With the XYZ file open, your atoms should be visible and you can access the overlay controls at the upper right of the layout screen to turn off visual aids that you don't require for a clean figure (grids, axes, etc).
 </p>
 
@@ -26,7 +26,7 @@ With the scene mostly ready, let's take a minute to familiarize ourselves with t
 <iframe width="640" height="300" src="https://www.youtube.com/embed/BfNCyXAn_dg?si=Ab_7fmpwM6X4pIR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>
-1. The camera can be selected by clicking on the wire-frame aperture hovering near your atoms or from the menu on the right-hand side of the screen.  The camera can be adjusted using the move (**'G'**) and rotate (**'R'**) options, with **'X'**, **'Y'**, and **'Z'** keys locking transformations to a particular axis.
+1. The camera can be selected by clicking on the wire-frame aperture hovering near your atoms or from the menu on the right-hand side of the screen.  The camera can be adjusted using the move (<b>'G'</b>) and rotate (<b>'R'</b>) options, with <b>'X'</b>, <b>'Y'</b>, and <b>'Z'</b> keys locking transformations to a particular axis.
 </p>
 
 <figure>
@@ -36,7 +36,7 @@ With the scene mostly ready, let's take a minute to familiarize ourselves with t
 </figure>
 
 <p>
-2. Right-click while the camera is selected and a menu will appear with two options for adjusting the camera, **'Adjust Focal Length'** and **'Adjust Focus Distance'**.  Change these to your satisfaction, and then select **'Set Active Camera'** to make this the camera that pictures will be taken from.
+2. Right-click while the camera is selected and a menu will appear with two options for adjusting the camera, <b>'Adjust Focal Length'</b> and <b>'Adjust Focus Distance'</b>.  Change these to your satisfaction, and then select <b>'Set Active Camera'</b> to make this the camera that pictures will be taken from.
 </p>
 
 <figure>
@@ -46,7 +46,7 @@ With the scene mostly ready, let's take a minute to familiarize ourselves with t
 </figure>
 
 <p>
-3. With the camera setup done, open the **'View'** drop-down menu at the top of the screen and select **'Viewport Render Image'**, which will open a new window that shows the rendered view through the camera.
+3. With the camera setup done, open the <b>'View'</b> drop-down menu at the top of the screen and select <b>'Viewport Render Image'</b>, which will open a new window that shows the rendered view through the camera.
 </p>
 
 <figure>
@@ -56,7 +56,7 @@ With the scene mostly ready, let's take a minute to familiarize ourselves with t
 </figure>
 
 <p>
-4. In the render window at the top left of the screen is an option **'Image' --> 'Save as'**, which will allow you to save the render in your preferred file type and location.  If your camera is too close to the target you can close the viewport render window and adjust the camera before trying again.
+4. In the render window at the top left of the screen is an option <b>'Image' --> 'Save as'</b>, which will allow you to save the render in your preferred file type and location.  If your camera is too close to the target you can close the viewport render window and adjust the camera before trying again.
 </p>
 
 <figure>
@@ -70,7 +70,7 @@ Now that you are able to take a photo in Blender, you may want to replace the ba
 
 <iframe width="640" height="300" src="https://www.youtube.com/embed/OyoRgz9HqsY?si=ftPAukp1Z3gJtWgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I also added a **'Plane'** mesh object placed underneath as a background (like a sheet of paper) and assigned it a new white **'Material'** in the 'Material Properties' panel for contrast.  Lastly, the material was given the **'Surface' --> 'Background'** property to get rid of any shadows that might land on it from the atoms themselves.
+I also added a <b>'Plane'</b> mesh object placed underneath as a background (like a sheet of paper) and assigned it a new white <b>'Material'</b> in the 'Material Properties' panel for contrast.  Lastly, the material was given the <b>'Surface' --> 'Background'</b> property to get rid of any shadows that might land on it from the atoms themselves.
 
 Remember, a picture is worth a thousand words.
 </p>
