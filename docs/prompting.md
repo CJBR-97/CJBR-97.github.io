@@ -15,7 +15,7 @@ Form and expression are basic building blocks of character pieces such as portra
 9. **Snarl**, **screech**, **bellow**  --> Expression words that show a sizeable amount of teeth
 
 <figure>
-  <img src="{{site.url}}/assets/images/ai/Gnome.png" alt="A hunched gnome with a lot of character, clutching a quaint shortbow"/>
+  <img src="{{site.url}}/assets/images/ai/Gnome.png" alt="A hunched gnome with a lot of character, clutching a quaint shortbow" width="640"/>
   <figcaption style="text-align: center; font-style: italic; color: grey;">A hunched gnome with a lot of character, clutching a quaint shortbow
   </figcaption>
 </figure>
@@ -54,9 +54,10 @@ As well as some artstyle keywords:
 
 ## Landscapes
 <figure>
-  <img src="{{site.url}}/assets/images/ai/City Walled.png" alt="An example cityscape in a planetary romance or science fantasy style"/>
+  <img src="{{site.url}}/assets/images/ai/City Walled.png" alt="An example cityscape in a planetary romance or science fantasy style" width="640"/>
   <figcaption style="text-align: center; font-style: italic; color: grey;">An example cityscape in a planetary romance or science fantasy style
   </figcaption>
+  padding-bottom: 50px;
 </figure>
 
 Concerning AI art, my view is that the program makes art with the human as a director or patron commissioning the work.  Please use this remarkable tool responsibly and get some great images.
