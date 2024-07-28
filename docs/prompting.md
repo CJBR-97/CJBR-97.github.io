@@ -10,9 +10,9 @@ Form and expression are basic building blocks of character pieces such as portra
 3. **Emaciated** --> Starved, ultra-lean creatures, ribs showing, patchy fur, etc.
 4. **Husk** --> Like the withered output but on overdrive, bias towards much more corpse-like features
 5. **Sunken eyes** --> Deep dark eyes, weary looking
-7. **Ornate**, **embroidered**, **intricate**, **carved** --> Detail words with different meanings, I find they work best with metal, cloth, fine details, and stonework respectively
-8. **Smirk**, **coy**, **sneer**, **cruel** --> Expression words that all involve subtleties of facial muscles without showing teeth
-9. **Snarl**, **screech**, **bellow**  --> Expression words that show a sizeable amount of teeth
+6. **Smirk**, **coy**, **sneer**, **cruel** --> Expression words that all involve subtleties of facial muscles without showing teeth
+7. **Snarl**, **screech**, **bellow**  --> Expression words that show a sizeable amount of teeth
+8. **Ornate**, **embroidered**, **intricate**, **carved** --> Detail words with different meanings, I find they work best with metal, cloth, fine details, and stonework respectively
 
 <figure>
   <img src="{{site.url}}/assets/images/ai/Gnome.png" alt="A hunched gnome with a lot of character, clutching a quaint shortbow" width="640"/>
@@ -31,6 +31,54 @@ Here are a few examples that you can try:
 5. **Vermilion** --> Bright, intense red from the mercury ore Cinnabar
 6. **Scarlet** --> A deep and dark red
 7. **Ochre** --> Deep earthy oranges, browns, yellows
+
+## Armour & Fashion
+What character is complete without a personalized style?  In history and literature, one tends to pick knowledge of these things up like stray pennies on the sidewalk.  Hopefully this list speeds that process up, as Copilot is generally quite good in this area with minimal nudging.
+
+### Armour
+1. **Quilted/Padded tunic** --> A fantastic look for non-metallic armour, a densely packed textile-based protection that is historically abundant as well as easy to embellish with other prompts
+2. **Brigandine** --> A type of metal armour with plates or strips of metal embedded into the reverse side of a more flexible material, sometimes giving the outer layer a stiff, studded appearrance.
+3. **Chitin** --> Chitin is the name for the material that composes arthropod shells, like insects, crabs, etc. and produces very exotic armour images
+
+### Fashion
+1. **Robe** --> The most basic of clothing, can be altered with words such as **'hood(ed)'**
+2. **Frogging** --> A personal favourite, this is a back-and-forth embroidery-and-buttons detail on the uniforms of European military officers of a few centuries past, now found as a detail on elaborate jackets of hotel staff
+3. **Greatcoat** --> A WWI and earlier style of overcoat, perfect for portraying war-weariness and wet, muddy conflicts
+
+## Exotic traits
+In science fiction and fantasy images, there is often a demand for the unusual.  If you are interested in producing an image of bug-people from Venus or such, then there are a few things to pay attention to in the prompt. 
+ Firstly, _do not_ tell Copilot what you want outright, it will often find a way to sidetrack or ignore you due to erroneus associations with keywords or particular words rousing its censorship.  For instance, if your prompt included the word "avatar", do not be surprised if the output is cross-pollinated by styles from either the animated show or James Cameron's movie of the same name.
+
+### Scales & Skin
+If you want scales, go with 'scaled skin' or 'scales', not 'lizard skin', unless you want a full-body lizard-man complete with reptile eyes.  I think Copilot tends to break things into parts, so lizard skin becomes 'lizard' + 'skin' or 'lizard' + 'lizard skin'.  There are many types of scales as well, and per the suggestions in earlier sections, knowing the true names is invaluable:
+1. **Scales** --> Your basic lizards, snakes, fish, etc.
+2. **Scutes** --> Tough scales mixed with horn, often banded or reinforcing other scaly hides, found in crocodiles, turtles, birds, etc.
+3. **Osteoderms** --> Protective bony nodules found in and under the hides of some creatures, synonymous in many cases with scutes, but more commonly associated with extinct mammals, i.e. armadillos, crocodiles
+4. **Pebbly** --> Skin like a toad, rough and bumpy but not truly scaled
+
+<figure>
+  <img src="{{site.url}}/assets/images/ai/Purple Frog" alt="A character with pebbly toad-like skin" width="640"/>
+  <figcaption style="text-align: center; font-style: italic; color: grey;">A character with pebbly toad-like skin
+  </figcaption>
+</figure>
+
+### Horns
+These are some of the most tricky in my experience.  They come in many styles but Copilot has a limited ability to pick up on modifications such as "Shorter" or "less curly".  In order to get the horns you want, try to specify "**location**, **surface**, and **direction**", i.e. "knobbled horns sweeping past temples" or "pearlescent smooth horned brow".  Alternatively, break the advice from earlier and ask for the _specific_ type of horns you want directly, i.e. antellope, gazelle, moose, etc.
+
+### Ears
+A simple aspect but one that can be very inconsistent in the end product.  Here are a few observations to help with prompting this trait:
+1. Pointed --> Ears you could use to catch radio signals, this tends towards excess
+2. Elvish --> Ears are generally the correct shape but the size remains highly variable, favouring large sizes
+3. Narrowed --> More reasonably sized, good for half-elves and more standard elves
+4. Tapered/Tapering to a point --> Bizarrely, this seems to work extremely consistently for ears in the human, half-elf, and LotR movie elf sizes
+
+### Wings
+
+<figure>
+  <img src="{{site.url}}/assets/images/ai/Monarch.png" alt="A character combining science fiction and fantasy traits into a winged insectoid humanoid" width="640"/>
+  <figcaption style="text-align: center; font-style: italic; color: grey;">A character combining science fiction and fantasy traits into a winged insectoid humanoid
+  </figcaption>
+</figure>
 
 ## Styles
 The flavour of a piece is an essential component that modifies almost every aspect of the result in some way.  Try to keep in mind the essential lines, colours, shapes, and even subject matter of various artstyles, as Copilot seems to do better when working with familiar material, just as humans tend to.
@@ -56,6 +104,12 @@ As well as some artstyle keywords:
 <figure>
   <img src="{{site.url}}/assets/images/ai/City Walled.png" alt="An example cityscape in a planetary romance or science fantasy style" width="640"/>
   <figcaption style="text-align: center; font-style: italic; color: grey;">An example cityscape in a planetary romance or science fantasy style
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="{{site.url}}/assets/images/ai/Jupiter Station.png" alt="A contrasting vista of a space station hanging in the turbulent atmosphere of a gas giant" width="640"/>
+  <figcaption style="text-align: center; font-style: italic; color: grey;">A space station hanging in the turbulent atmosphere of a gas giant
   </figcaption>
 </figure>
 
