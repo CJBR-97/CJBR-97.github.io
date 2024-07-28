@@ -41,7 +41,7 @@ With the scene mostly ready, let's take a minute to familiarize ourselves with t
 
 <figure>
   <img src="{{site.url}}/assets/images/blender/4th.png" alt="The 'View' menu options." width="640" height="300" />
-  <figcaption style="text-align: center; font-style: italic; color: grey; margin-bottom: 20;">Figure 4. The 'View' menu options.
+  <figcaption style="text-align: center; font-style: italic; color: grey;">Figure 4. The 'View' menu options.
   </figcaption>
 </figure>
 
