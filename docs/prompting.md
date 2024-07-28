@@ -57,7 +57,7 @@ If you want scales, go with 'scaled skin' or 'scales', not 'lizard skin', unless
 4. **Pebbly** --> Skin like a toad, rough and bumpy but not truly scaled
 
 <figure>
-  <img src="{{site.url}}/assets/images/ai/Purple Frog" alt="A character with pebbly toad-like skin" width="640"/>
+  <img src="{{site.url}}/assets/images/ai/Purple Frog.png" alt="A character with pebbly toad-like skin" width="640"/>
   <figcaption style="text-align: center; font-style: italic; color: grey;">A character with pebbly toad-like skin
   </figcaption>
 </figure>
