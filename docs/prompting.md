@@ -113,6 +113,7 @@ As well as some artstyle keywords:
   </figcaption>
 </figure>
 
-Concerning AI art, my view is that the program makes art with the human as a director or patron commissioning the work.  Please use this remarkable tool responsibly and get some great images.
+## Conclusion
+I hope you have gained something from this article.  Concerning AI art, my view is that the program makes art with the human as a director or patron commissioning the work.  Please use this remarkable tool responsibly and get some great images.
 
 Happy prompting!
