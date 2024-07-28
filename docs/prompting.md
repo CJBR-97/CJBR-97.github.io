@@ -75,8 +75,8 @@ A simple aspect but one that can be very inconsistent in the end product.  Here 
 ### Wings
 
 <figure>
-  <img src="{{site.url}}/assets/images/ai/Monarch.png" alt="A character combining science fiction and fantasy traits into a winged insectoid humanoid" width="640"/>
-  <figcaption style="text-align: center; font-style: italic; color: grey;">A character combining science fiction and fantasy traits into a winged insectoid humanoid
+  <img src="{{site.url}}/assets/images/ai/Monarch.png" alt="A character with monarch butterfly wings" width="640"/>
+  <figcaption style="text-align: center; font-style: italic; color: grey;">A character with monarch butterfly wings
   </figcaption>
 </figure>
 
