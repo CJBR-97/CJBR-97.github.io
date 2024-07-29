@@ -53,7 +53,7 @@ In science fiction and fantasy images, there is often a demand for the unusual. 
 If you want scales, go with 'scaled skin' or 'scales', not 'lizard skin', unless you want a full-body lizard-man complete with reptile eyes.  I think Copilot tends to break things into parts, so lizard skin becomes 'lizard' + 'skin' or 'lizard' + 'lizard skin'.  There are many types of scales as well, and per the suggestions in earlier sections, knowing the true names is invaluable:
 1. **Scales** --> Your basic lizards, snakes, fish, etc.
 2. **Scutes** --> Tough scales mixed with horn, often banded or reinforcing other scaly hides, found in crocodiles, turtles, birds, etc.
-3. **Osteoderms** --> Protective bony nodules found in and under the hides of some creatures, synonymous in many cases with scutes, but more commonly associated with extinct mammals, i.e. armadillos, crocodiles
+3. **Osteoderms** --> Protective bony nodules found in and under the hides of some creatures, synonymous in many cases with scutes, but more commonly associated with extinct mammals
 4. **Pebbly** --> Skin like a toad, rough and bumpy but not truly scaled
 
 <figure>
