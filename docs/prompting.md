@@ -63,7 +63,7 @@ If you want scales, go with 'scaled skin' or 'scales', not 'lizard skin', unless
 </figure>
 
 ### Horns
-These are some of the most tricky in my experience.  They come in many styles but Copilot has a limited ability to pick up on modifications such as "Shorter" or "less curly".  In order to get the horns you want, try to specify "**location**, **surface**, and **direction**", i.e. "knobbled horns sweeping past temples" or "pearlescent smooth horned brow".  Alternatively, break the advice from earlier and ask for the _specific_ type of horns you want directly, i.e. antellope, gazelle, moose, etc.
+These are some of the most tricky in my experience.  They come in many styles but Copilot has a limited ability to pick up on modifications such as "Shorter" or "less curly".  In order to get the horns you want, try to specify "**location**, **surface**, and **direction**", i.e. "knobbled horns sweeping past temples" or "pearlescent smooth horned brow".  Alternatively, break the advice from earlier and ask for the _specific_ type of horns you want directly, i.e. antelope, gazelle, moose, etc.
 
 ### Ears
 A simple aspect but one that can be very inconsistent in the end product.  Here are a few observations to help with prompting this trait:
