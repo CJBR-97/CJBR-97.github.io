@@ -28,7 +28,7 @@ Here are a few examples that you can try:
 2. **Turquoise** --> A unique blue-green from copper ore
 3. **Lavender** --> A delightful soft purple hue
 4. **Ebon**, **sable**, **charcoal**, **jet** --> Dark colours from hardwoods, furs, fuel, and gems
-5. **Vermilion** --> Bright, intense red from the mercury ore Cinnabar
+5. **Vermilion** --> Bright, intense red from the mercury ore cinnabar
 6. **Scarlet** --> A deep and dark red
 7. **Ochre** --> Deep earthy oranges, browns, yellows
 
