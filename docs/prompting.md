@@ -7,7 +7,7 @@ After using Microsoft's Copilot/Designer AI for a little while and sharing the r
 To start with, some observations that apply to multiple types of image output.
 
 ### Keen Wording is Key
-Firstly, _do not_ tell Copilot what you want outright, it will often find a way to sidetrack or ignore you due to erroneus associations with keywords or particular words rousing its censorship.  For instance, if your prompt included the word "avatar", do not be surprised if the output is cross-pollinated by styles from either the animated show or James Cameron's movie of the same name.
+Firstly, _do not_ tell Copilot what you want outright, it will often get sidetracked by popular associations of keywords or ignore your prompt due to accidentally inciting the content censor.  For instance, if your prompt includes the word "avatar", do not be surprised if the output is cross-pollinated by styles from either the animated show or James Cameron's movie of the same name.  Instead, use descriptive but general language to maximize your yield of on-target images.
 
 As well, avoid at all costs specifying quantities, as AI image generation doesn't typically recognize the significance of items such as 'two suns', 'three horses', 'no clouds'.  A more effective wording for these would be 'binary suns'/'multiple suns', 'small group of horses', and 'cloudless'/'clear sky' respectively.
 
