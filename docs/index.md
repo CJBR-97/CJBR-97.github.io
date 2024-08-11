@@ -1,3 +1,7 @@
+Welcome to my portfolio site.  I am a recent Physics (M.Sc) grad with a background in Nanoscience (B.Sc) enthused by space science, metamaterials, nuclear energy, and arthropods.
+
+My Thesis is available through the following link to the [University of Ottawa Library](https://lnkd.in/g8mt7qPA).
+
 **Here are links to some of my recent projects with Python and Linux**
 * [MatSimPy - A Python package for materials simulation](https://cleanit.github.io/MatSimPy/)
 * [JobScraPy - A Python package to aid in parsing job opportunities](https://cjbr-97.github.io/JobScraPy/)
