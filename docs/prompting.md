@@ -62,7 +62,7 @@ Form and expression are basic building blocks of character pieces such as portra
   <figcaption style="text-align: center; font-style: italic; color: grey;"> A hunched gnome with a lot of character, clutching a quaint shortbow.
   </figcaption>
 </figure>
-
+<!-- Credit for the tooptip markdown shortcut goes to GitHub user Araxeus -->
 > Prompt excerpt [<img src="https://www.wppluginsforyou.com/wp-content/uploads/2020/05/tooltips.png" width="15px" />
 ](## "A gnomish creature with narrowed suspicious amber eyes that glint in the twilight, disheveled dark green merino wool clothing with abstract woven toad patterns...mountainside brush clearing setting, picaresque medieval comic illustration with a tiny crossbow and a mischievous grin, sinister looking and waiting in ambush")
 
