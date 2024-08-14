@@ -1,4 +1,4 @@
-# Prompt Guidelines for AI Art Tutorial (Copilot / Designer)
+# Prompt Guidelines for AI Art Tutorial (Copilot)
 **By C. Reimer**
 
 After using Microsoft's Copilot/Designer AI for a little while and sharing the results, I was encouraged by colleagues to write up a summary of what I've observed so far and share my 'prompt engineering' toolkit. For the most part this tutorial will be aimed at a casual audience looking to use AI to produce character or landscape art for personal use, but general guidelines will be covered as well.
@@ -62,7 +62,9 @@ Form and expression are basic building blocks of character pieces such as portra
   <figcaption style="text-align: center; font-style: italic; color: grey;"> A hunched gnome with a lot of character, clutching a quaint shortbow
   </figcaption>
 </figure>
-[Prompt Excerpt] (a "A gnomish creature with narrowed suspicious amber eyes that glint in the twilight, disheveled dark green merino wool clothing with abstract woven toad patterns...mountainside brush clearing setting, picaresque medieval comic illustration with a tiny crossbow and a mischievous grin, sinister looking and waiting in ambush")
+
+Prompt Excerpt: [<img src="https://www.wppluginsforyou.com/wp-content/uploads/2020/05/tooltips.png" width="15px" />
+](## "A gnomish creature with narrowed suspicious amber eyes that glint in the twilight, disheveled dark green merino wool clothing with abstract woven toad patterns...mountainside brush clearing setting, picaresque medieval comic illustration with a tiny crossbow and a mischievous grin, sinister looking and waiting in ambush")
 
 ## Colour
 Colours are one area of prompts that usually work fairly well without elaboration.  However, there is one particular tip that has served me well for avoiding the vaguaries of phrases such as "bright pink" or "deep blue"; classics often produce especially rich colours compared with generics.  The method is simply to use the traditional names for specific well-known colours derived from historic dyes and pigments.  
