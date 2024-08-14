@@ -63,7 +63,7 @@ Form and expression are basic building blocks of character pieces such as portra
   </figcaption>
 </figure>
 
-Prompt Excerpt: [<img src="https://www.wppluginsforyou.com/wp-content/uploads/2020/05/tooltips.png" width="15px" />
+> Prompt excerpt [<img src="https://www.wppluginsforyou.com/wp-content/uploads/2020/05/tooltips.png" width="15px" />
 ](## "A gnomish creature with narrowed suspicious amber eyes that glint in the twilight, disheveled dark green merino wool clothing with abstract woven toad patterns...mountainside brush clearing setting, picaresque medieval comic illustration with a tiny crossbow and a mischievous grin, sinister looking and waiting in ambush")
 
 ## Colour
