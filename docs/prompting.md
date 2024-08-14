@@ -59,7 +59,7 @@ Form and expression are basic building blocks of character pieces such as portra
 
 <figure>
   <img src="{{site.url}}/assets/images/ai/Gnome.png" alt="A hunched gnome with a lot of character, clutching a quaint shortbow" width="640"/>
-  <figcaption style="text-align: center; font-style: italic; color: grey;"> A hunched gnome with a lot of character, clutching a quaint shortbow
+  <figcaption style="text-align: center; font-style: italic; color: grey;"> A hunched gnome with a lot of character, clutching a quaint shortbow.
   </figcaption>
 </figure>
 
@@ -103,7 +103,7 @@ If you want scales, go with 'scaled skin' or 'scales', not 'lizard skin', unless
 
 <figure>
   <img src="{{site.url}}/assets/images/ai/Purple Frog.png" alt="A character with pebbly toad-like skin" width="640"/>
-  <figcaption style="text-align: center; font-style: italic; color: grey;">A character with pebbly toad-like skin
+  <figcaption style="text-align: center; font-style: italic; color: grey;">A character with pebbly toad-like skin.
   </figcaption>
 </figure>
 
@@ -124,9 +124,12 @@ A simple aspect but one that can be very inconsistent in the end product.  Here 
 
 <figure>
   <img src="{{site.url}}/assets/images/ai/Monarch.jpg" alt="A character with monarch butterfly wings" width="640"/>
-  <figcaption style="text-align: center; font-style: italic; color: grey;">A character with monarch butterfly wings
+  <figcaption style="text-align: center; font-style: italic; color: grey;">A character with monarch butterfly wings.
   </figcaption>
 </figure>
+
+> Prompt excerpt [<img src="https://www.wppluginsforyou.com/wp-content/uploads/2020/05/tooltips.png" width="15px" />
+](## "Please draw a butterfly-elf space adventurer with a sleek suit of black chitin and glowing orange panels in their wings and white lights dotting the edges of the wings, space fantasy adventure colour sketch illustration")
 
 ## Landscapes
 <figure>
