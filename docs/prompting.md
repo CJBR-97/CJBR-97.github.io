@@ -59,7 +59,7 @@ Form and expression are basic building blocks of character pieces such as portra
 
 <figure>
   <img src="{{site.url}}/assets/images/ai/Gnome.png" alt="A hunched gnome with a lot of character, clutching a quaint shortbow" width="640"/>
-  <figcaption style="text-align: center; font-style: italic; color: grey;">A hunched gnome with a lot of character, clutching a quaint shortbow
+  <figcaption style="text-align: center; font-style: italic; color: grey;"> [A hunched gnome with a lot of character, clutching a quaint shortbow](a "Prompt: A gnomish creature with narrowed suspicious amber eyes that glint in the twilight, disheveled dark green merino wool clothing with abstract woven toad patterns...mountainside brush clearing setting, picaresque medieval comic illustration with a tiny crossbow and a mischievous grin, sinister looking and waiting in ambush")
   </figcaption>
 </figure>
 
