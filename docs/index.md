@@ -5,7 +5,7 @@ My thesis, *Characterizing Structure of High Entropy Alloys (HEAs) Using Machine
 **My contracting services include:**
 * 3D model design and test printing
 * Python and Bash programming
-* Materials Simulation setup
+* Materials simulation setup
 * Nature stock photography
 * AI image prompting
 * Technical Writing
