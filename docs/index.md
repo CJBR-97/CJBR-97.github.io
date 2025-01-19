@@ -2,7 +2,7 @@ Welcome to my portfolio site.  I am a recent Physics (M.Sc) grad with a backgrou
 
 My thesis, *Characterizing Structure of High Entropy Alloys (HEAs) Using Machine Learning*, is available through the following link to the [University of Ottawa Library](https://ruor.uottawa.ca/items/0f90b21a-f8d5-4479-9f08-d2b9463512c4).
 
-**My contracting services include:**
+**Available services include:**
 * 3D model design and test printing
 * Python and Bash programming
 * Materials simulation setup
