@@ -25,6 +25,11 @@ My thesis, *Characterizing Structure of High Entropy Alloys (HEAs) Using Machine
 
 * [Atomic figures in Blender tutorial](atomicblender.md) --> Struggling to draw perfect atoms in Word, Powerpoint, or Inkscape? Look no further than this tutorial on how to directly import your atomic files to Blender and take great rendered shots for journals and other publications.
 
-* [A simple 2D defect diffusion tutorial for NumPy](https://colab.research.google.com/github/CLEANit/tutorials/blob/master/2D_KMC_Example.ipynb) --> An easily-modified model for representing defect diffusion in a multi-component 2D system with a varied rate catalogue, presented via Google Colab.
+* [Simple 2D defect diffusion tutorial with NumPy](https://colab.research.google.com/github/CLEANit/tutorials/blob/master/2D_KMC_Example.ipynb) --> An easily-modified model for representing defect diffusion in a multi-component 2D system with a varied rate catalogue, presented via Google Colab.
   
-* [A surface site representation tutorial for Pytorch & ASE](https://colab.research.google.com/github/CLEANit/tutorials/blob/master/Pytorch_ASE_Surfaces.ipynb) --> A demo of surface site placement using the Atomic Simulation Environment package for Python, presented via Google Colab.
+* [Surface site representation tutorial with Pytorch & ASE](https://colab.research.google.com/github/CLEANit/tutorials/blob/master/Pytorch_ASE_Surfaces.ipynb) --> A demo of surface site placement using the Atomic Simulation Environment package for Python, presented via Google Colab.
+
+<h2>Contact Info</h2>
+
+**LinkedIn:** [Christoff Reimer](https://www.linkedin.com/in/christoff-reimer/) \
+**Email:** <christoffreimer@gmail.com>
