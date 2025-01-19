@@ -1,4 +1,4 @@
-<h1>Contact information</h1>
+<h2>Contact information</h2>
   
 Thank you for your interest, I can be contacted using any of the following links.
 
