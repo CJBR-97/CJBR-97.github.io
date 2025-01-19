@@ -2,7 +2,7 @@ Welcome to my portfolio site.  I am a recent Physics (M.Sc) grad with a backgrou
 
 My thesis, *Characterizing Structure of High Entropy Alloys (HEAs) Using Machine Learning*, is available through the following link to the [University of Ottawa Library](https://ruor.uottawa.ca/items/0f90b21a-f8d5-4479-9f08-d2b9463512c4).
 
-<h1>Available services</h1>
+<h2>Available services</h2>
 
 * 3D model design and resin printing
 * Python and Bash programming
@@ -12,7 +12,7 @@ My thesis, *Characterizing Structure of High Entropy Alloys (HEAs) Using Machine
 * Technical writing
 * Creative writing
 
-<h1> Example work </h1>
+<h2> Example work </h2>
   
 **Links to some of my recent projects with Python and Linux**
 * [MatSimPy - A Python package for materials simulation](https://cleanit.github.io/MatSimPy/)
