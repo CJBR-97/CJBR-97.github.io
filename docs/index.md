@@ -7,7 +7,6 @@ My thesis, *Characterizing Structure of High Entropy Alloys (HEAs) Using Machine
 * 3D model design and resin printing
 * Python and Bash programming
 * Materials simulation setup
-* Nature photography
 * AI image prompting
 * Technical writing
 * Creative writing
