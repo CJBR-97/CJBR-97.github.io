@@ -6,4 +6,4 @@ Shortly after becoming a member of the Toronto Entomologist's Association, I rec
 
 
 
-Raising moths and butterflies has been one of the most singularly fulfilling activities I've undertaken. It is my hope that rearing them has some small benefit for their flagging populations. Even if not, witnessing their growth and sharing their beauty with others is benefit enough for now.
+Raising moths and butterflies has been one of the most singularly fulfilling activities I've undertaken. It is my hope that rearing them has some benefit for their flagging populations.
